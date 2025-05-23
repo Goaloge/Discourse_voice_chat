@@ -1,0 +1,15 @@
+en:
+  js:
+    voice_messages:
+      title: "Voice Messages"
+      record: "Record Voice Message"
+      start_recording: "Record"
+      stop: "Stop"
+      cancel: "Cancel"
+      send: "Send"
+      uploading: "Uploading..."
+      errors:
+        microphone_access: "Could not access microphone. Please check your browser permissions."
+        upload_failed: "Voice message upload failed."
+        too_short: "Voice message is too short."
+        too_long: "Voice message is too long. Maximum duration is 5 minutes."
