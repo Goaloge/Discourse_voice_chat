@@ -1,4 +1,0 @@
-voice_messages_enabled:
-  default: true      # Plugin ist nach Installation sofort aktiv
-  client: true       # Einstellung ist im Admin-UI sichtbar
-  type: bool
