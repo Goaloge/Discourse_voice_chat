@@ -1,9 +1,0 @@
-de:
-  site_settings:
-    voice_messages_enabled: "Sprachnachrichten im Chat aktivieren"
-    voice_messages_max_length: "Maximale Länge einer Sprachnachricht in Sekunden"
-    voice_messages_auto_delete_days: "Anzahl der Tage, nach denen Sprachnachrichten automatisch gelöscht werden (0 = keine automatische Löschung)"
-  voice_messages:
-    errors:
-      not_found: "Sprachnachricht nicht gefunden"
-      not_authorized: "Sie sind nicht berechtigt, auf diese Sprachnachricht zuzugreifen"

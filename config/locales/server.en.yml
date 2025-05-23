@@ -1,9 +1,0 @@
-en:
-  site_settings:
-    voice_messages_enabled: "Enable voice messages in chat"
-    voice_messages_max_length: "Maximum voice message length in seconds"
-    voice_messages_auto_delete_days: "Number of days after which voice messages are automatically deleted (0 = no automatic deletion)"
-  voice_messages:
-    errors:
-      not_found: "Voice message not found"
-      not_authorized: "You are not authorized to access this voice message"
