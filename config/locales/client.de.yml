@@ -1,0 +1,15 @@
+de:
+  js:
+    voice_messages:
+      title: "Sprachnachrichten"
+      record: "Sprachnachricht aufnehmen"
+      start_recording: "Aufnehmen"
+      stop: "Stopp"
+      cancel: "Abbrechen"
+      send: "Senden"
+      uploading: "Wird hochgeladen..."
+      errors:
+        microphone_access: "Kein Zugriff auf das Mikrofon. Bitte überprüfen Sie Ihre Browser-Berechtigungen."
+        upload_failed: "Hochladen der Sprachnachricht fehlgeschlagen."
+        too_short: "Sprachnachricht ist zu kurz."
+        too_long: "Sprachnachricht ist zu lang. Maximale Dauer beträgt 5 Minuten."
