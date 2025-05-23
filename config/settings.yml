@@ -1,0 +1,11 @@
+plugins:
+  voice_messages_enabled:
+    default: true
+    client: true
+  voice_messages_max_length:
+    default: 300
+    client: true
+  voice_messages_auto_delete_days:
+    default: 30
+    client: true
+    description: "Anzahl der Tage, nach denen Sprachnachrichten automatisch gelöscht werden (0 = keine automatische Löschung)"
