@@ -2,7 +2,7 @@
 # about: Adds WhatsApp-like voice messaging to Discourse Chat
 # version: 0.1
 # authors: AI Assistant
-# url: https://github.com/Goaloge/Discourse_voice_chat
+# url: https://github.com/discourse/discourse-voice-messages
 
 register_asset "stylesheets/voice-messages.scss"
 
