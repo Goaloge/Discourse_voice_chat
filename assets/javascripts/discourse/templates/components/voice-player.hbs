@@ -1,0 +1,20 @@
+<div class="voice-player">
+  <button class="btn btn-flat play-button" {{action "togglePlay"}}>
+    {{#if isPlaying}}
+      {{d-icon "pause"}}
+    {{else}}
+      {{d-icon "play"}}
+    {{/if}}
+  </button>
+
+  <div class="voice-player-progress">
+    <div class="progress-bar" {{action "seek"}}>
+      <div class="progress-bar-fill" style="width: {{progress}}%"></div>
+    </div>
+
+    <div class="voice-player-time">
+      <span class="current-time">{{formattedCurrentTime}}</span>
+      <span class="duration">{{formattedDuration}}</span>
+    </div>
+  </div>
+</div>
